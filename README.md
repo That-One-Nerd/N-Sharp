@@ -1,3 +1,5 @@
+**The N# Repository is moving. This repo will only be public for a couple more days. Check out the [N# Language Group](https://github.com/nsharplang) for more.**
+
 # N# - The programming language
 N# (N-Sharp) is a programming language developed with ease of creation in mind. It derives from a mix of C# and C++, but adds several new tools and completely rebuilds the libraries.
 
